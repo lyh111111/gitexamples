@@ -11,6 +11,6 @@ public class Hello {
     }
 
     public void feature(){
-
+        System.out.println("aaaaaaa");
     }
 }
